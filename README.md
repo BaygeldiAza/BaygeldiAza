@@ -1,19 +1,33 @@
-# Hi there 👋
-
-- 🏢 I'm Software engineering student at ZJUT
-- 🌱 I’m currently learning Web Development.
-- 💻 I’m working on projects with HTML, CSS, JS, Python, FastApi and React.
-- 🤝 I’m looking to internship in web development.
-- 📫 How to reach me: baygeldiaza@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Every time run a code git commit -m "message" !
+## Hi, I'm Baygeldi 👋  
+**Software Engineering Student | Web Developer**
 
 ---
 
-## 📊 My GitHub Stats:
+### 👨‍💻 About Me
+- 🎓 Software Engineering student at **Zhejiang University of Technology (ZJUT)**
+- 🌐 Focused on **Web Development**
+- ⚙️ Mainly working with **Python, FastAPI**
+- 🎯 Currently looking for a **Web Development Internship**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaygeldiAza&layout=compact&theme=tokyonight&hide_border=true)
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
+---
 
+> I focus on writing clean backend code and building practical APIs.
+
+---
+
+### 📊 GitHub Stats
+![Baygeldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaygeldiAza&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contact
+- 📧 Email: **baygeldiaza@gmail.com**
+- 💬 Telegram: https://t.me/baygeldi1818
+---
