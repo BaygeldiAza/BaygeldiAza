@@ -23,10 +23,7 @@
 
 ### 📊 GitHub Stats
 
-![Baygeldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaygeldiAza&layout=compact&theme=tokyonight)
-
+[![Baygeldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaygeldiAza&theme=dark)](https://github.com/BaygeldiAza/github-readme-stats)
 
 ---
 
