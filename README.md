@@ -20,6 +20,11 @@
 > I focus on writing clean backend code and building practical APIs.
 
 ---
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
 
 ### 📫 Contact
 - 📧 Email: **baygeldiaza@gmail.com**
