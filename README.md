@@ -22,7 +22,7 @@
 ---
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=BaygeldiAza&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
