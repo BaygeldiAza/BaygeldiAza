@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student at **Zhejiang University of Technology (ZJUT)**
 - 🌐 Focused on **Web Development**
-- 📓 Language **Python, C++, Java**
+- 📓 Languages **Python, C++, Java**
 - ⚙️ Mainly working with **Python, FastAPI**
 - 🎯 Currently looking for a **Web Development Internship**
 
