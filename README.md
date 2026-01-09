@@ -18,7 +18,7 @@
 
 ---
 
-> I focus on writing clean backend code and building practical APIs.
+> **I focus on writing clean backend code and building practical APIs.**
 
 ---
 ## 📊 My GitHub Stats
