@@ -28,6 +28,6 @@
 ---
 
 ### 📫 Contact
-- 📧 Email: **baygeldiaza@gmail.com**
-- 💬 Telegram: https://t.me/baygeldi1818
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:baygeldiaza@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/baygeldi1818)
 ---
