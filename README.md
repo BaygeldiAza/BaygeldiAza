@@ -25,8 +25,8 @@
 
 ---
 ## 📊 My GitHub Stats
-
 [![Baygeldi's github stats](https://github-readme-stats.vercel.app/api?username=Baygeldiaza&theme=dark)](https://github.com/BaygeldiAza/github-readme-stats)
+
 
 ---
 
