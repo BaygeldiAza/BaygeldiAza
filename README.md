@@ -25,12 +25,12 @@
 
 ---
 ## 📊 My GitHub Stats
-[![Baygeldi's github stats](https://github-readme-stats.vercel.app/api?username=Baygeldiaza&theme=dark)](https://github.com/BaygeldiAza/github-readme-stats)
+[![Baygeldi's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baygeldiaza&theme=dark)](https://github.com/Baygeldiaza)
 
 
----
 
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:baygeldiaza@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/baygeldi1818)
 ---
+  
