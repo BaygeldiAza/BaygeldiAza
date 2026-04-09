@@ -1,5 +1,9 @@
 ## Hi, I'm Baygeldi 👋  
-**Software Engineering Student | Web Developer**
+**Software Engineering Student | Backend Developer**
+
+---
+
+[![Open Portfolio](https://img.shields.io/badge/Open-Portfolio-blue?style=for-the-badge&logo=vercel)](https://portfolio-iota-two-6fua2olp3q.vercel.app/)
 
 ---
 
