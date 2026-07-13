@@ -12,7 +12,7 @@
 - 🌐 Focused on **Web Development**
 - 📓 Languages **Python, C++, Java**
 - ⚙️ Mainly working with **Python, FastAPI**
-- 🎯 Currently looking for a **Web Development Internship**
+- 🎯 Currently looking for a **Backend development Internship**
 
 ---
 
@@ -23,6 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ---
 
 > **I focus on writing clean backend code and building practical APIs.**
