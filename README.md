@@ -30,7 +30,7 @@ I focus on building reliable backend systems, developing APIs, and integrating A
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,php,html,js,css&theme=dark" />
 </p>
 
 ### Backend & Databases
